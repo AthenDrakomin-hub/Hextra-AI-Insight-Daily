@@ -4,24 +4,24 @@ type: page
 sidebar:
   exclude: true
 ---
-# Connect with Me
+# Get In Touch! 👋
 
-Hey there! 👋 I'm super stoked to hear from you. Got questions, cool collaboration ideas, or just need some support? Hit me up using the info below!
+Want to connect? I'm super excited to hear your thoughts and suggestions! If you've got questions, brilliant collaboration ideas, or need a hand, just hit me up using the methods below.
 
-Rest assured, I'll get back to your emails ASAP. Pinky promise!
+My promise? I'll get back to your emails ASAP! 🚀
 
 ---
 
-## **Get in Touch**
+## **How to Reach Me**
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
 *   **Personal WeChat:**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Let's chat!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Connect with me!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Heads up: I'm usually chilling on weekends and public holidays!)
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Weekends and public holidays? Off the clock! 🏖️)
